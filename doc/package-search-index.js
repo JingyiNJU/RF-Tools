@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.example.sdksample","h":"","u":""}]

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"RFRead","h":"","u":""}]
